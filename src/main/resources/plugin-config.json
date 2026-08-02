@@ -1,0 +1,33 @@
+[
+  {
+    "id": "MiBack",
+    "roles": [
+      {
+        "plugin-role": "ADMIN",
+        "applicative-role": "ADMIN"
+      },
+      {
+        "plugin-role": "MANAGER",
+        "applicative-role": "MANAGER"
+      },
+      {
+        "plugin-role": "USER",
+        "applicative-role": "USER"
+      }
+    ],
+    "security-roles": [
+      {
+        "plugin-security-role": "ADMIN",
+        "applicative-security-role": "ADMIN"
+      },
+      {
+        "plugin-security-role": "MANAGER",
+        "applicative-security-role": "MANAGER"
+      },
+      {
+        "plugin-security-role": "DEMO",
+        "applicative-security-role": "DEMO"
+      }
+    ]
+  }
+]
