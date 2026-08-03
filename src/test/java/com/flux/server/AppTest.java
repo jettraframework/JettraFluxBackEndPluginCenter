@@ -15,7 +15,7 @@ import io.jettra.test.annotation.RequiresRunningServer;
 @RequiresRunningServer
 public class AppTest {
 
-    public Integer ServerPortTest = 9010;
+    public Integer ServerPortTest = 9055;
 
     /**
      * Prueba de Integración: Flujo completo de Autenticación JWT.
